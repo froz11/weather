@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MMWEATHER>
+	<REPORT type="frc3">
+		<TOWN index="7591" sname="SLAVGOROD" latitude="53" longitude="79">
+                    			<FORECAST day="04" month="04" year="2019" hour="15" tod="2" predict="0" weekday="5">
+				<PHENOMENA cloudiness="1" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="762" min="761"/>
+				<TEMPERATURE max="11" min="7"/>
+				<WIND min="4" max="5" direction="3"/>
+				<RELWET max="59" min="53"/>
+
+				<HEAT min="1" max="1"/>
+			</FORECAST>
+                        			<FORECAST day="04" month="04" year="2019" hour="21" tod="3" predict="0" weekday="5">
+				<PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="762" min="762"/>
+				<TEMPERATURE max="11" min="6"/>
+				<WIND min="3" max="4" direction="3"/>
+				<RELWET max="73" min="55"/>
+
+				<HEAT min="2" max="2"/>
+			</FORECAST>
+                        			<FORECAST day="05" month="04" year="2019" hour="03" tod="0" predict="0" weekday="6">
+				<PHENOMENA cloudiness="2" precipitation="4" rpower="0" spower="0"/>
+				<PRESSURE max="762" min="761"/>
+				<TEMPERATURE max="6" min="4"/>
+				<WIND min="2" max="3" direction="3"/>
+				<RELWET max="90" min="73"/>
+
+				<HEAT min="1" max="1"/>
+			</FORECAST>
+                        			<FORECAST day="05" month="04" year="2019" hour="09" tod="1" predict="0" weekday="6">
+				<PHENOMENA cloudiness="2" precipitation="4" rpower="0" spower="0"/>
+				<PRESSURE max="761" min="761"/>
+				<TEMPERATURE max="6" min="4"/>
+				<WIND min="3" max="3" direction="3"/>
+				<RELWET max="92" min="86"/>
+
+				<HEAT min="1" max="1"/>
+			</FORECAST>
+            		</TOWN>
+	</REPORT>
+</MMWEATHER>

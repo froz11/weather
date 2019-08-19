@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MMWEATHER>
+	<REPORT type="frc3">
+		<TOWN index="160" sname="%D0%91%D0%B0%D1%80%D0%BD%D0%B0%D1%83%D0%BB" latitude="53" longitude="84">
+                    			<FORECAST day="04" month="04" year="2019" hour="15" tod="2" predict="0" weekday="5">
+				<PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="763" min="762"/>
+				<TEMPERATURE max="8" min="7"/>
+				<WIND min="4" max="5" direction="2"/>
+				<RELWET max="56" min="54"/>
+
+				<HEAT min="2" max="2"/>
+			</FORECAST>
+                        			<FORECAST day="04" month="04" year="2019" hour="21" tod="3" predict="0" weekday="5">
+				<PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="763" min="762"/>
+				<TEMPERATURE max="8" min="4"/>
+				<WIND min="3" max="5" direction="2"/>
+				<RELWET max="81" min="57"/>
+
+				<HEAT min="0" max="0"/>
+			</FORECAST>
+                        			<FORECAST day="05" month="04" year="2019" hour="03" tod="0" predict="0" weekday="6">
+				<PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="762" min="761"/>
+				<TEMPERATURE max="4" min="3"/>
+				<WIND min="1" max="3" direction="2"/>
+				<RELWET max="84" min="80"/>
+
+				<HEAT min="-1" max="-1"/>
+			</FORECAST>
+                        			<FORECAST day="05" month="04" year="2019" hour="09" tod="1" predict="0" weekday="6">
+				<PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="762" min="761"/>
+				<TEMPERATURE max="5" min="3"/>
+				<WIND min="1" max="2" direction="2"/>
+				<RELWET max="88" min="83"/>
+
+				<HEAT min="-0" max="-0"/>
+			</FORECAST>
+            		</TOWN>
+	</REPORT>
+</MMWEATHER>
